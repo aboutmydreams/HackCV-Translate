@@ -26,7 +26,7 @@
 | [2017/10/09 第7期](https://hackcv.com/daily/p/7/)   | [@mllove](https://github.com/mllove)     |      |
 | [2017/10/10 第8期](https://hackcv.com/daily/p/8/)   |                                          |      |
 | [2017/10/11 第9期](https://hackcv.com/daily/p/9/)   |                                          |      |
-| [2017/10/11 第10期](https://hackcv.com/daily/p/10/) |                                          |      |
+| [2017/10/11 第10期](https://hackcv.com/daily/p/10/) | [@aboutmydreams](https://github.com/aboutmydreams)      |      |
 | [2017/10/13 第11期](https://hackcv.com/daily/p/11/) | [@wnma](https://github.com/wnma3mz)      |      |
 | [2017/10/14 第12期](https://hackcv.com/daily/p/12/) |                                          |      |
 | [2017/10/15 第13期](https://hackcv.com/daily/p/13/) |                                          |      |
